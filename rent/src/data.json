@@ -1,0 +1,28 @@
+{
+    "vehicle":[
+        {
+            "name":"Mareno",
+            "image":"https://5.imimg.com/data5/SELLER/Default/2021/2/AY/WZ/KU/11189234/mareno-electric-scooty-500x500.jpg",
+            "type":"Electricity",
+            "id":1
+        },
+        {
+            "name":"Mareno",
+            "image":"https://5.imimg.com/data5/SELLER/Default/2021/2/AY/WZ/KU/11189234/mareno-electric-scooty-500x500.jpg",
+            "type":"Electricity",
+            "id":1
+        },
+        {
+            "name":"Mareno",
+            "image":"https://5.imimg.com/data5/SELLER/Default/2021/2/AY/WZ/KU/11189234/mareno-electric-scooty-500x500.jpg",
+            "type":"Electricity",
+            "id":1
+        },
+        {
+            "name":"Mareno",
+            "image":"https://5.imimg.com/data5/SELLER/Default/2021/2/AY/WZ/KU/11189234/mareno-electric-scooty-500x500.jpg",
+            "type":"Electricity",
+            "id":1
+        }
+    ]
+}

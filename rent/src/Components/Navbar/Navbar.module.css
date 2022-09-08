@@ -1,0 +1,21 @@
+#navbar_container{
+   height:50px;
+   display: flex;
+   justify-content: space-between;
+   padding: 10px;
+   /* border: solid; */
+   background-color: rgb(93, 172, 198);
+}
+.navbar_container_div{
+    width: 25rem;
+    display: flex;
+    justify-content: space-around;
+    /* border: solid; */
+}
+#location{
+    display: flex;
+    gap:2px;
+}
+#location>svg{
+    margin-top:15px
+}

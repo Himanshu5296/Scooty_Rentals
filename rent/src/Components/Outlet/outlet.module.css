@@ -1,0 +1,16 @@
+#outlet_container{
+    margin-top:30px;
+    display: grid;
+    grid-template-columns: repeat(3,200px);
+    justify-content: center;
+    gap:25px;
+}
+#outlet_container>div{
+    height:60px;
+    border: 0.5px solid rgb(158, 158, 158);
+    border-radius:5px;
+    padding-top:40px;
+}
+#outlet_container>div:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
